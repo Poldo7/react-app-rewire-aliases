@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
-    "react-app-rewired": "^1.5.2"
+    "react-app-rewired": "^2.2.1"
   }
 }
